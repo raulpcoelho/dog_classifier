@@ -1,1 +1,1 @@
-# dog_classifier
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raulpcoelho/dog_classifier/HEAD?labpath=%2Fvoila%2Frender%2Fdogs.ipynb)
